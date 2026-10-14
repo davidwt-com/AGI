@@ -215,7 +215,7 @@ I.-E. Cindea and C.-N. Cîndea, “Exploring language acquisition in infants: A 
 [12]
 I. Berent, “Commentary: ‘An Evaluation of Universal Grammar and the Phonological Mind’-UG Is Still a Viable Hypothesis.,” Frontiers in Psychology, vol. 7, pp. 1029–1029, July 2016, doi: 10.3389/FPSYG.2016.01029.
 [13]
-J. Lidz and A. Gagliardi, “How Nature Meets Nurture: Universal Grammar and Statistical Learning,” Social Science Research Network, vol. 1, no. 1, pp. 333–353, Jan. 2015, doi: 10.1146/ANNUREV-LINGUIST-030514-125236.
+J. Lidz and A. Gagliardi, “How Nature Meets Nurture: Universal Grammar and Statistical Learning,” Annual Review of Linguistics, vol. 1, no. 1, pp. 333–353, Jan. 2015, doi: 10.1146/ANNUREV-LINGUIST-030514-125236.
 [14]
 A. M. Zador, “A critique of pure learning and what artificial neural networks can learn from animal brains.,” Nature Communications, vol. 10, no. 1, pp. 3770–3770, Aug. 2019, doi: 10.1038/S41467-019-11786-6.
 [15]
