@@ -12,6 +12,7 @@ Current documents:
 
 - `docs/AGIDesignChecklist.md`: checklist of capabilities an AGI design should have
 - `docs/AGIDesignChecklistReview.md`: Claude's review of the checklist (citation check, claim check, suggestions)
+- `docs/AGIDesignChecklistRevisionPlan.md`: SciSpace's five-session plan for acting on the review
 - `docs/InnateCognitionReport.md`: report on innate human cognition and what it implies for AGI
 - `docs/MilinkovicAruBiologicalComputationalismSummary.md`: summary of Milinkovic & Aru (2025)
 
